@@ -20,7 +20,7 @@ Go to https://torfirst.github.io/password-generator/ to view the password genera
 
 Lines 62 to the end is starter code that was provided for this assignment. Used the global variables and getPasswordChoices function (lines 1-26) that our teacher, Farish Kashefinejad, demonstrated/provided to us during office hours. I also received some guidance from a BCS tutor, David Elutilo, to set up the character bank which I'd need for the generatePassword function (lines 28-30 and 37-51). 
 
-I also used [this link](https://www.kirupa.com/html5/picking_random_item_from_array.htm]) to figure out how to pick a random array value in the generateFunction for loop.
+I used [this link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/isInteger) to ensure that only numbers were being passed for the first prompt. I also used [this link](https://www.kirupa.com/html5/picking_random_item_from_array.htm]) to figure out how to pick a random array value in the generateFunction for loop.
 
 ## License
 
